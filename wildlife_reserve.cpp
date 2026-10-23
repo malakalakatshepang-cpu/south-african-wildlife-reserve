@@ -1,6 +1,5 @@
     
 /*Name: Tshepang Malakalaka
-Student Number: 24612391
 Module: COS2611
 Assignment: Assessment 3
 */
